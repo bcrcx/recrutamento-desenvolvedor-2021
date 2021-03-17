@@ -1,8 +1,8 @@
-RECRUTAMENTO DESENVOLVEDOR
+# RECRUTAMENTO DESENVOLVEDOR
 Bem-vindo ao teste prático para os candidatos ao cargo de desenvolvedor na BCRCX!
 
 
-REQUISITOS
+## REQUISITOS
 Você deverá modelar e contruir, na linguagem de sua escolha, uma API, apenas uma API JSON, para um site de receitas.
 
 - A API deve implementar autenticação JWT
@@ -15,6 +15,6 @@ Você deverá modelar e contruir, na linguagem de sua escolha, uma API, apenas u
 
 Não há a necessidade de uma interface.
 
-OPCIONAL
+## OPCIONAL
 - Adicionar tags as receitas, e um edpoint para listar as receitas em uma tag
 - Você não precisa fazer uma interface mas se quiser mostrar seus conhecimentos em front-end fique a vontade!
